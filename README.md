@@ -1,2 +1,2 @@
-# what-was-it-again-
+# wdi-fundamentals-memorygame-
 a fun memory game!
